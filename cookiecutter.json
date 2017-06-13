@@ -1,12 +1,13 @@
 {
-  "app_name": "webapp",
-  "AppName": "WebApp",
-  "project_name": "My Webapp",
-  "app_url": "https://webapp.com",
-  "author": "Ryan Olson",
+  "app_name": "walle",
+  "AppName": "walle",
+  "project_name": "walle",
+  "app_url": "http://api.walle-web.io",
+  "author": "wushuiyong",
+  "app_repo": "https://github.com/meolu/walle-web",
   "email": "rmolson@gmail.com",
-  "company": "Quantum Coding LLC",
-  "copyright": "2013-2014, Quantum Coding LLC",
+  "company": "walle-web.io",
+  "copyright": "2015-2017, walle-web.io",
   "license": "MIT",
   "vagrant_ipv4": "192.168.100.10"
 }
